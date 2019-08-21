@@ -1,0 +1,3 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\bin\Debug\EjerClase23.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.pdb

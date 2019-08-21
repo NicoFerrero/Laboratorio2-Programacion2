@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase20\bin\Debug\EntidadesClase20.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase20\bin\Debug\EntidadesClase20.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\bin\Debug\EntidadesClase20.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\bin\Debug\EntidadesClase20.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase20\obj\Debug\EntidadesClase20.pdb

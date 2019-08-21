@@ -1,0 +1,21 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.Form1.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.Properties.Resources.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csproj.GenerateResource.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\Ejercicio61.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\Ejercicio61.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\Ejercicio61.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\MySql.Data.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\Google.Protobuf.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\bin\Debug\MySql.Data.xml
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\bin\Debug\Ejercicio61.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.Form1.resources
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio61\obj\Debug\Ejercicio61.csproj.GenerateResource.Cache

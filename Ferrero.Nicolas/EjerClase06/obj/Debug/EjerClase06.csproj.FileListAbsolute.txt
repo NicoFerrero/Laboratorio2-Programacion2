@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\bin\Debug\EjerClase06.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\bin\Debug\EjerClase06.exe
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\bin\Debug\EjerClase06.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\bin\Debug\EntidadesClase06.dll
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\bin\Debug\EntidadesClase06.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\obj\Debug\EjerClase06.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\obj\Debug\EjerClase06.exe
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\EjerClase06\obj\Debug\EjerClase06.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase06\bin\Debug\EjerClase06.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase06\obj\Debug\EjerClase06.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase06\obj\Debug\EjerClase06.pdb

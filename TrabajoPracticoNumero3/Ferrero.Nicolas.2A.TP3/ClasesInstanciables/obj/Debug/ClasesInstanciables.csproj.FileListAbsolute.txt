@@ -1,0 +1,26 @@
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

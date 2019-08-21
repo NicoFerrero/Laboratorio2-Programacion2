@@ -1,0 +1,17 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio06\bin\Debug\Ejercicio06.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio06\obj\Debug\Ejercicio06.pdb

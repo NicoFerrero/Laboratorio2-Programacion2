@@ -1,0 +1,5 @@
+D:\VisualStudio\Ferrero.Nicolas\Cosa\bin\Debug\Cosa.dll
+D:\VisualStudio\Ferrero.Nicolas\Cosa\bin\Debug\Cosa.pdb
+D:\VisualStudio\Ferrero.Nicolas\Cosa\obj\Debug\Cosa.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Cosa\obj\Debug\Cosa.dll
+D:\VisualStudio\Ferrero.Nicolas\Cosa\obj\Debug\Cosa.pdb

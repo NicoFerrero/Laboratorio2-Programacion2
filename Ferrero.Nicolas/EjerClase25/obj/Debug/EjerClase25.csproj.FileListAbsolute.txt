@@ -1,0 +1,10 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\EjerClase25.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\EjerClase25.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\EjerClase25.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\Entidades.Alumnos.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\Entidades.Alumnos.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\obj\Debug\EjerClase25.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\obj\Debug\EjerClase25.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\obj\Debug\EjerClase25.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\Entidades.Externa.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase25\bin\Debug\Entidades.Externa.Sellada.dll

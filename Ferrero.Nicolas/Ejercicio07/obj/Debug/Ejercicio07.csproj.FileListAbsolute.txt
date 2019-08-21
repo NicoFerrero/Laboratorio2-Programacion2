@@ -1,0 +1,13 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\bin\Debug\Ejercicio07.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio07\obj\Debug\Ejercicio07.pdb

@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\obj\Debug\Ejercicio09.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\obj\Debug\Ejercicio09.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio09\obj\Debug\Ejercicio09.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio09\bin\Debug\Ejercicio09.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio09\obj\Debug\Ejercicio09.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio09\obj\Debug\Ejercicio09.pdb

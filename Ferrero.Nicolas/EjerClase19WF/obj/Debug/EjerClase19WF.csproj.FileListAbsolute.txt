@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\bin\Debug\EjerClase19WF.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\bin\Debug\EjerClase19WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\bin\Debug\EjerClase19WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\bin\Debug\EntidadesClase19.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\bin\Debug\EntidadesClase19.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase19WF\obj\Debug\EjerClase19WF.frmJugador.resources

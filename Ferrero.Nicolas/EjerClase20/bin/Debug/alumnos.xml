@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Alumno><Nombre>juan</Nombre><Apellido>perez</Apellido><Dni>12345678</Dni><legajo>1000</legajo></Alumno><Alumno><Nombre>pedro</Nombre><Apellido>gimenez</Apellido><Dni>23456789</Dni><legajo>1001</legajo></Alumno></ArrayOfAlumno>

@@ -1,0 +1,6 @@
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\bin\Debug\Entidades.dll
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\obj\Debug\Entidades.dll
+C:\Users\NICO\Desktop\CentralTelefonica\Entidades\obj\Debug\Entidades.pdb

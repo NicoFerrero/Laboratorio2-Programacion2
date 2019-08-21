@@ -1,0 +1,19 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\bin\Debug\EjerClase23WF2.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.frmCalculadora.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.Properties.Resources.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.csproj.GenerateResource.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23WF2\obj\Debug\EjerClase23WF2.frmCalculadora.resources

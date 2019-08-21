@@ -1,0 +1,8 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\bin\Debug\EjerClase15.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\bin\Debug\EjerClase15.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\bin\Debug\EjerClase15.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\bin\Debug\EntidadesClase15.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\bin\Debug\EntidadesClase15.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\obj\Debug\EjerClase15.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\obj\Debug\EjerClase15.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase15\obj\Debug\EjerClase15.pdb

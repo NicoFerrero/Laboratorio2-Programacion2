@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio02\obj\Debug\Ejercicio02.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio02\obj\Debug\Ejercicio02.pdb

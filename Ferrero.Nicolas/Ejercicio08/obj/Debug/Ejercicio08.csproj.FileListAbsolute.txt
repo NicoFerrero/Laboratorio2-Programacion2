@@ -1,0 +1,26 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\mscorlib.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\System.Net.Http.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\System.Net.Http.xml
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\normidna.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\normnfc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\normnfd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\normnfkc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\bin\Debug\normnfkd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio08\bin\Debug\Ejercicio08.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio08\obj\Debug\Ejercicio08.pdb

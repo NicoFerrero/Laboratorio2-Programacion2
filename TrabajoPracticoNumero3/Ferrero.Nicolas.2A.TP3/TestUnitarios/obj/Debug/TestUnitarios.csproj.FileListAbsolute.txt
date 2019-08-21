@@ -1,0 +1,17 @@
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\ClasesAbstractas.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\ClasesInstanciables.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\ClasesAbstractas.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\ClasesInstanciables.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\NICO\Desktop\TrabajoPracticoNumero3\Ferrero.Nicolas.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

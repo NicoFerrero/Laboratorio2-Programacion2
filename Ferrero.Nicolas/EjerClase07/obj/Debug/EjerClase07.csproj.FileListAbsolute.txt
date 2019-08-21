@@ -1,0 +1,18 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\bin\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\bin\Debug\EntidadesClase07.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\bin\Debug\EjerClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\bin\Debug\EntidadesClase07.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\bin\Debug\EntidadesClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07\obj\Debug\EjerClase07.pdb

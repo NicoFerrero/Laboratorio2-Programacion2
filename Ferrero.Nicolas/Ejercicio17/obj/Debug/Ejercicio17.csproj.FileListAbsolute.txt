@@ -1,0 +1,16 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio17\obj\Debug\Ejercicio17.pdb

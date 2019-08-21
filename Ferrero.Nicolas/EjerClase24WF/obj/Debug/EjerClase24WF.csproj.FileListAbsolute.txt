@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\bin\Debug\EjerClase24WF.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\bin\Debug\EjerClase24WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\bin\Debug\EjerClase24WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\bin\Debug\EntidadesClase24.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\bin\Debug\EntidadesClase24.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.frmEmpleado.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF\obj\Debug\EjerClase24WF.pdb

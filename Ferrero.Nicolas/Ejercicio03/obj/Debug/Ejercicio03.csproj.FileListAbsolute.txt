@@ -1,0 +1,19 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\bin\Debug\Ejecicio03.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\bin\Debug\Ejecicio03.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\bin\Debug\Ejecicio03.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\obj\Debug\Ejecicio03.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejecicio03\obj\Debug\Ejecicio03.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejecicio03.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejecicio03.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio03\bin\Debug\Ejecicio03.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejecicio03.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio03\obj\Debug\Ejecicio03.pdb

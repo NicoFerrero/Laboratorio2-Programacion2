@@ -1,0 +1,5 @@
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07(Ejercicio29).csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.pdb

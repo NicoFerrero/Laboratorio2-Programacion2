@@ -1,0 +1,26 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EntidadesClase07.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.frmJugador.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.frmEquipo.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EjerClase07WF.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EntidadesClase07.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\bin\Debug\EntidadesClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.frmEquipo.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.frmJugador.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.Properties.Resources.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csproj.GenerateResource.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase07WF\obj\Debug\EjerClase07WF.pdb

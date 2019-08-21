@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\bin\Debug\EntidadesClase07.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase07\obj\Debug\EntidadesClase07.pdb

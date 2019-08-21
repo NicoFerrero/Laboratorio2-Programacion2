@@ -1,0 +1,6 @@
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\bin\Debug\EntidadesClase21.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\bin\Debug\EntidadesClase21.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\obj\Debug\EntidadesClase21.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\obj\Debug\EntidadesClase21.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\obj\Debug\EntidadesClase21.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase21\bin\Debug\EntidadesClase21.dll.config

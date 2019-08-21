@@ -1,0 +1,8 @@
+D:\Ferrero.Nicolas\Test\bin\Debug\Test.exe.config
+D:\Ferrero.Nicolas\Test\bin\Debug\Test.exe
+D:\Ferrero.Nicolas\Test\bin\Debug\Test.pdb
+D:\Ferrero.Nicolas\Test\bin\Debug\Entidades.dll
+D:\Ferrero.Nicolas\Test\bin\Debug\Entidades.pdb
+D:\Ferrero.Nicolas\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Ferrero.Nicolas\Test\obj\Debug\Test.exe
+D:\Ferrero.Nicolas\Test\obj\Debug\Test.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\bin\Debug\EjerClase04WF.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\bin\Debug\EjerClase04WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\bin\Debug\EjerClase04WF.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\bin\Debug\Cosa.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\bin\Debug\Cosa.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.Form1.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04WF\obj\Debug\EjerClase04WF.pdb

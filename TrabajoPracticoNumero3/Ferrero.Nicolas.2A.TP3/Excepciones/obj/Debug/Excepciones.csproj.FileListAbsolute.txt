@@ -1,0 +1,6 @@
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

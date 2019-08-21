@@ -1,0 +1,8 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\bin\Debug\EjerClase23.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\bin\Debug\EjerClase23.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\bin\Debug\EjerClase23.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.frmCajeroAutomatico.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23Wf.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase23\obj\Debug\EjerClase23.pdb

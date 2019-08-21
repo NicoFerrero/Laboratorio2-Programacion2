@@ -1,0 +1,9 @@
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+c:\users\nico\documents\visual studio 2017\Projects\Ferrero.Nicolas.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

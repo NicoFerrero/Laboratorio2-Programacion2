@@ -1,0 +1,26 @@
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.exe.config
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfaces.csprojResolveAssemblyReference.cache
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe.config
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.pdb
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe.config
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.pdb
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.exe
+C:\Users\PC\Desktop\Programación UTN\Programación_Laboratório 2\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.pdb

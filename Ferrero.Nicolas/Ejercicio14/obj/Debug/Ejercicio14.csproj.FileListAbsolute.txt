@@ -1,0 +1,12 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio14\bin\Debug\Ejercicio14.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio14\obj\Debug\Ejercicio14.pdb

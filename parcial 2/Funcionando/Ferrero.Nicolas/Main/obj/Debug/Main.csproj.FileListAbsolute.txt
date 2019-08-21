@@ -1,0 +1,36 @@
+D:\Ferrero.Nicolas\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Ferrero.Nicolas\Main\bin\Debug\Main.exe.config
+D:\Ferrero.Nicolas\Main\bin\Debug\Main.exe
+D:\Ferrero.Nicolas\Main\bin\Debug\Main.pdb
+D:\Ferrero.Nicolas\Main\bin\Debug\Entidades.dll
+D:\Ferrero.Nicolas\Main\bin\Debug\Entidades.pdb
+D:\Ferrero.Nicolas\Main\obj\Debug\Main.exe
+D:\Ferrero.Nicolas\Main\obj\Debug\Main.pdb
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\bin\Debug\Main.exe.config
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\bin\Debug\Main.exe
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\bin\Debug\Main.pdb
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\bin\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\obj\Debug\Main.exe
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Main\obj\Debug\Main.pdb
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\bin\Debug\Main.exe.config
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\bin\Debug\Main.exe
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\bin\Debug\Main.pdb
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\bin\Debug\Entidades.dll
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\bin\Debug\Entidades.pdb
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\obj\Debug\Main.csprojAssemblyReference.cache
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\obj\Debug\Main.csproj.CopyComplete
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\obj\Debug\Main.exe
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Main\obj\Debug\Main.pdb
+D:\VisualStudio\Ferrero.Nicolas\Main\bin\Debug\Main.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Main\obj\Debug\Main.exe
+D:\VisualStudio\Ferrero.Nicolas\Main\obj\Debug\Main.pdb
+D:\VisualStudio\Ferrero.Nicolas\Main\bin\Debug\Main.exe
+D:\VisualStudio\Ferrero.Nicolas\Main\bin\Debug\Main.pdb
+D:\VisualStudio\Ferrero.Nicolas\Main\bin\Debug\Entidades.dll
+D:\VisualStudio\Ferrero.Nicolas\Main\bin\Debug\Entidades.pdb
+D:\VisualStudio\Ferrero.Nicolas\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache

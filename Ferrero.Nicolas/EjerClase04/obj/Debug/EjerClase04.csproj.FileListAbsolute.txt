@@ -1,0 +1,8 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\bin\Debug\EjerClase04.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\bin\Debug\EjerClase04.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\bin\Debug\EjerClase04.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\bin\Debug\Cosa.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\bin\Debug\Cosa.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\obj\Debug\EjerClase04.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\obj\Debug\EjerClase04.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase04\obj\Debug\EjerClase04.pdb

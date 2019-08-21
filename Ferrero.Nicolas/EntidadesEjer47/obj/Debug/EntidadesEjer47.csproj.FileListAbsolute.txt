@@ -1,0 +1,5 @@
+D:\VisualStudio\Ferrero.Nicolas\EntidadesEjer47\obj\Debug\EntidadesEjer47.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesEjer47\bin\Debug\EntidadesEjer47.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesEjer47\bin\Debug\EntidadesEjer47.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesEjer47\obj\Debug\EntidadesEjer47.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesEjer47\obj\Debug\EntidadesEjer47.pdb

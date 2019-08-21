@@ -1,0 +1,21 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\bin\Debug\EntidadesClase09.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\bin\Debug\EntidadesClase09.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\bin\Debug\EntidadesClase09.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\bin\Debug\EntidadesClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.csprojResolveAssemblyReference.cache
+D:\VisualStudio\parciales\Ferrero.Nicolas\EjerClase09\bin\Debug\EjerClase09.exe.config
+D:\VisualStudio\parciales\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.exe
+D:\VisualStudio\parciales\Ferrero.Nicolas\EjerClase09\obj\Debug\EjerClase09.pdb

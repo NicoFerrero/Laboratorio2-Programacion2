@@ -1,0 +1,13 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.exe
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.exe
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\bin\Debug\Ejercicio19.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ferrero.Nicolas\Ejercicio19\obj\Debug\Ejercicio19.csprojResolveAssemblyReference.cache

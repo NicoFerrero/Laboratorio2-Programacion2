@@ -1,0 +1,18 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\bin\Debug\EntidadesClase20.dll
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\bin\Debug\EntidadesClase20.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\bin\Debug\EjerClase20.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\bin\Debug\EntidadesClase20.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\bin\Debug\EntidadesClase20.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase20\obj\Debug\EjerClase20.pdb

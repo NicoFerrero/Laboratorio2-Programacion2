@@ -1,0 +1,22 @@
+D:\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.dll
+D:\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.pdb
+D:\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.dll
+D:\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.pdb
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.dll
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.pdb
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.dll
+E:\parcial 2\Funcionando\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Ferrero.Nicolas\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Ferrero.Nicolas\Entidades\obj\Debug\Entidades.pdb

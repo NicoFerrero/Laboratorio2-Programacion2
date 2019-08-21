@@ -1,0 +1,22 @@
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\Consola.exe.config
+D:\VisualStudio\Archivos2017\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\Consola.exe
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\Consola.pdb
+D:\VisualStudio\Archivos2017\Consola\obj\Debug\Consola.exe
+D:\VisualStudio\Archivos2017\Consola\obj\Debug\Consola.pdb
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\EntidadesArchivos.dll
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\EntidadesArchivos.pdb
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\Entidades.dll
+D:\VisualStudio\Archivos2017\Consola\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\Consola.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\Consola.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\Consola.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\EntidadesArchivos.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\EntidadesArchivos.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\obj\Debug\Consola.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Consola\obj\Debug\Consola.pdb

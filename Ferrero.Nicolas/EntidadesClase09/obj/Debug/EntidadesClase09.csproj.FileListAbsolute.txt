@@ -1,0 +1,11 @@
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\bin\Debug\EntidadesClase09.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\bin\Debug\EntidadesClase09.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase09\bin\Debug\EntidadesClase09.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase09\bin\Debug\EntidadesClase09.pdb
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.dll
+D:\VisualStudio\Ferrero.Nicolas\EntidadesClase09\obj\Debug\EntidadesClase09.pdb

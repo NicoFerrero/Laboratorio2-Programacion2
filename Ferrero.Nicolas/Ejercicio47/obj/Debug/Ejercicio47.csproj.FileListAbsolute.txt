@@ -1,0 +1,8 @@
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\bin\Debug\Ejercicio47.exe.config
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\bin\Debug\Ejercicio47.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\bin\Debug\Ejercicio47.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\bin\Debug\EntidadesEjer47.dll
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\bin\Debug\EntidadesEjer47.pdb
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\obj\Debug\Ejercicio47.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\obj\Debug\Ejercicio47.exe
+D:\VisualStudio\Ferrero.Nicolas\Ejercicio47\obj\Debug\Ejercicio47.pdb

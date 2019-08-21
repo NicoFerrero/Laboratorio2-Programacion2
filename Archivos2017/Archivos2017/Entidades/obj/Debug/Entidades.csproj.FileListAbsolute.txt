@@ -1,0 +1,11 @@
+D:\VisualStudio\Archivos2017\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Archivos2017\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Archivos2017\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Archivos2017\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Archivos2017\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\bin\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\obj\Debug\Entidades.dll
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Archivos2017\Archivos2017\Entidades\obj\Debug\Entidades.pdb

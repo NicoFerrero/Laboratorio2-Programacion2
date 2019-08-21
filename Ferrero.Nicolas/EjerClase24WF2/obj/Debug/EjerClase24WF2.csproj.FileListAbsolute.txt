@@ -1,0 +1,23 @@
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.exe.config
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.pdb
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmPrincipal.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmTestDelegados.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmDatos.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.Properties.Resources.resources
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.csproj.GenerateResource.Cache
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.exe
+D:\VisualStudio\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.exe.config
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\bin\Debug\EjerClase24WF2.pdb
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.csprojAssemblyReference.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmPrincipal.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmTestDelegados.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.frmDatos.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.Properties.Resources.resources
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.csproj.GenerateResource.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.exe
+C:\Users\NICO\Desktop\Programación UTN\Programación_Laboratório 2\Ferrero.Nicolas\EjerClase24WF2\obj\Debug\EjerClase24WF2.pdb
